@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ujs/zsh/new_ws/devel_isolated/cartographer_ros/setup.sh
